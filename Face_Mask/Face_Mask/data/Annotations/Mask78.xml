@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Mask78.jpg</filename>
+    <path>Face_mask-PascalVOC-export/Annotations/Mask78.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>105.88235294117646</xmin>
+        <ymin>72.94117647058823</ymin>
+        <xmax>283.7647058823529</xmax>
+        <ymax>308.70588235294116</ymax>
+    </bndbox>
+</object>
+</annotation>
